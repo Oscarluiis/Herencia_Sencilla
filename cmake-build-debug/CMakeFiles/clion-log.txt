@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/LuiizMusic11/CLionProjects/Dia_7_Herencia
+-- Configuring done
+Warning: Source file "/Users/LuiizMusic11/CLionProjects/Dia_7_Herencia/cmake-build-debug/miClase.cpp" is listed multiple times for target "Dia_7_Herencia".
+-- Generating done
+-- Build files have been written to: /Users/LuiizMusic11/CLionProjects/Dia_7_Herencia/cmake-build-debug

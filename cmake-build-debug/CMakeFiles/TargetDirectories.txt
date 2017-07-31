@@ -1,0 +1,3 @@
+/Users/LuiizMusic11/CLionProjects/Dia_7_Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/LuiizMusic11/CLionProjects/Dia_7_Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/LuiizMusic11/CLionProjects/Dia_7_Herencia/cmake-build-debug/CMakeFiles/Dia_7_Herencia.dir
